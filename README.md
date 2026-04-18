@@ -1,5 +1,5 @@
-# GTFTS-SmartClock
-(Get The F*ck To School Smart Clock)
+# GTS-SmartClock
+(Get To School Smart Clock)
 
 This project is made for https://fallout.hackclub.com/
 
