@@ -18,14 +18,14 @@ In the pcb the pins for the oled screen are reveresd so you need to use wires to
 ## KIKAD
 This is the Schematic:
 
-<img width="941" height="566" alt="image" src="https://github.com/user-attachments/assets/0edfeaf6-03d9-4d5a-8c48-2debf1d861d3" />
+<img width="805" height="385" alt="image" src="https://github.com/user-attachments/assets/6234416e-a4b6-49ac-b5cf-0e0799ae2202" />
 
 
 <br></br>
 
 This is the PCB layout and wiring:
-<img width="1093" height="663" alt="image" src="https://github.com/user-attachments/assets/b527c249-71f9-4522-a232-85be377f8d18" />
 
+<img width="1264" height="716" alt="image" src="https://github.com/user-attachments/assets/b0e8ef6a-a831-445a-946b-4347c4431aab" />
 
 <br></br>
 ## FUSION
